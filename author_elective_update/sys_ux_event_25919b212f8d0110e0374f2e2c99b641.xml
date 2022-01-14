@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="DELETE">
+        <description/>
+        <event_name>OPEN_OCCASION_RECORD</event_name>
+        <interfaces/>
+        <label>Open Occasion Record</label>
+        <props>[{"name":"sysId","fieldType":"","label":"Sys ID","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false},{"name":"table","fieldType":"","label":"Table","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props>
+        <required_translations>[ {
+  "message" : "Sys ID",
+  "comment" : ""
+}, {
+  "message" : "Table",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-14 19:52:27</sys_created_on>
+        <sys_id>25919b212f8d0110e0374f2e2c99b641</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open Occasion Record</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_event_25919b212f8d0110e0374f2e2c99b641</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-14 19:52:27</sys_updated_on>
+    </sys_ux_event>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>0582a21fdb97db048264f70fbf9619da</instance_id>
+        <instance_name>dev65970</instance_name>
+        <name>sys_ux_event_25919b212f8d0110e0374f2e2c99b641</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event"><sys_ux_event action="INSERT_OR_UPDATE"><description/><event_name>OPEN_OCCASION_RECORD</event_name><interfaces/><label>Open Occasion Record</label><props>[{"name":"sysId","fieldType":"","label":"Sys ID","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false},{"name":"table","fieldType":"","label":"Table","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props><required_translations>[ {
+  "message" : "Sys ID",
+  "comment" : ""
+}, {
+  "message" : "Table",
+  "comment" : ""
+} ]</required_translations><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_event</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-14 19:52:27</sys_created_on><sys_id>25919b212f8d0110e0374f2e2c99b641</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open Occasion Record</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_event_25919b212f8d0110e0374f2e2c99b641</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-14 19:52:27</sys_updated_on></sys_ux_event></record_update>]]></payload>
+        <payload_hash>-1444806057</payload_hash>
+        <record_name>Open Occasion Record</record_name>
+        <reverted_from/>
+        <source>bc9c30fc2fd04110e0374f2e2c99b6f9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-14 19:52:27</sys_created_on>
+        <sys_id>25919b212f8d0110e0374f2e2c99b643</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e5a2601860000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-14 19:52:27</sys_updated_on>
+        <type>UX Event</type>
+        <update_guid>2d919b21ab8d0110e7350299942b2342</update_guid>
+        <update_guid_history>2d919b21ab8d0110e7350299942b2342:-1444806057</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-14 19:53:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_event">sys_ux_event</sys_db_object>
+        <sys_id>457af925ef7b46a592bb62c22c016609</sys_id>
+        <sys_metadata>25919b212f8d0110e0374f2e2c99b641</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open Occasion Record</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_event_25919b212f8d0110e0374f2e2c99b641</sys_update_name>
+        <sys_update_version display_value="sys_ux_event_25919b212f8d0110e0374f2e2c99b641">25919b212f8d0110e0374f2e2c99b643</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-14 19:53:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
